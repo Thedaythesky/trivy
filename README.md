@@ -145,3 +145,5 @@ Please ensure to abide by our [Code of Conduct][code-of-conduct] during all inte
 [aquasec]: https://aquasec.com
 [oss]: https://www.aquasec.com/products/open-source-projects/
 [discussions]: https://github.com/aquasecurity/trivy/discussions
+
+//云安全扫描器---强大
